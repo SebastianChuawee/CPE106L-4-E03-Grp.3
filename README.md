@@ -38,9 +38,9 @@ Each folder under `labX/` contains:
 
 ---
 
-## 👥 Team Members and Roles
+## 👥 Team Members 
 
-- **William Sebastian G. Chuawee** – Backend integration, database models, FastAPI logic  
-- **Dustin Dwainne M. Fernandez** – Frontend design using Flet, UI/UX, project packaging  
-- **Aelissa Leona P. Pascual** – Routing algorithms, system design, data visualization  
+- **William Sebastian G. Chuawee**
+- **Dustin Dwainne M. Fernandez** 
+- **Aelissa Leona P. Pascual** 
 
