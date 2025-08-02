@@ -2,6 +2,8 @@
 
 Welcome to our official repository for **CPE106L-4 | E03** under the **Department of Computer Engineering** at **Mapúa University**. This repository contains our complete submissions for **Lab Exercises 1–7** and our capstone project titled **"ACCESS-RIDE: Smart Scheduler for Inclusive Community Transport"**.
 
+The Laboratory Reports' Source Codes are found in the Lab Report branch of this repository.
+
 ---
 
 ## 📁 Repository Structure
