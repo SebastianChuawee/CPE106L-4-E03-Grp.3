@@ -1,0 +1,28 @@
+AccessibleTransportationScheduler/
+├── app/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models/
+│   │   ├── user.py
+│   │   ├── driver.py
+│   │   ├── ride.py
+│   ├── routes/
+│   │   ├── auth.py
+│   │   ├── rides.py
+│   ├── services/
+│   │   ├── user_service.py
+│   │   ├── ride_service.py
+│   │   ├── driver_service.py
+│   ├── db/
+│   │   ├── mongo.py
+│   ├── schemas/
+│   │   ├── user_schema.py
+│   │   ├── driver_schema.py
+│   │   ├── ride_schema.py
+│   └── utils/
+│       ├── auth_utils.py
+│       ├── route_utils.py
+│
+├── .env
+├── requirements.txt
+├── README.md
